@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como parte do programa **GFT Start #7**, utilizand
 | MySQL             | Banco de dados relacional            |
 | Liquibase         | Versionamento de banco de dados      |
 | Lombok            | Redução de código repetitivo         |
-| JUnit 5           | Testes automatizados                 |
+
 
 ---
 
